@@ -2,8 +2,8 @@
 
 Integrantes: 
 
-Ortiz, Sol
-Quintana, Matias
-Petrignani, Ignacio
-Fahler, Matias
-Scutti, Tomas
+Ortiz, Sol  
+Quintana, Matias  
+Petrignani, Ignacio  
+Fahler, Matias  
+Scutti, Tomas  
